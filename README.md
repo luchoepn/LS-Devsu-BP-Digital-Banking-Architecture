@@ -43,6 +43,6 @@ Los contratos, cifras de capacidad y objetivos de disponibilidad son **supuestos
 
 - **Documento:** [BP_Digital_Banking_Arquitectura_LS.pdf](./BP_Digital_Banking_Arquitectura_LS.pdf)
 - **Ejercicio:** Arquitecto de Soluciones — Devsu
-- **Autor:** [luchoepn](https://github.com/luchoepn)
+- **Autor:** [Luis Sánchez](https://www.linkedin.com/in/luis-sánchez-79801138)
 
 La propuesta busca equilibrar experiencia digital, mantenibilidad, integridad financiera y evolución gradual de los sistemas bancarios existentes.
